@@ -1,6 +1,8 @@
 # Арбитражный калькулятор
 Just a calculator that will help you calculate the profit and Margin Call on arbitrage transactions.
 
+Последнюю версию программы можно [скачать по ссылке](https://www.dropbox.com/scl/fi/lg7tu5s3pr8n5sljux5kk/output.7z?rlkey=b9z6hnrc3gur65mpx1i3f8r58&st=btzohan4&dl=0)
+
 Программа предназначена для отображения текущего или желаемого профита и цены ликвидации.
 
 ![изображение](https://github.com/user-attachments/assets/457ad187-e286-47f6-a913-acde167a9c8e)
@@ -37,9 +39,4 @@ Just a calculator that will help you calculate the profit and Margin Call on arb
 ![изображение](https://github.com/user-attachments/assets/1e8cd766-ef3f-450f-b2f0-c93126e7543f)
 
 
-
-
-Создаём в дизайнере нужную форму и преобразуем её в питон код при помощи команды:
-pyuic6.exe design/main_window.ui -o design/main_window.py
-Для генерации exe файла используем команду:
-auto-py-to-exe.exe
+Последнюю версию программы можно [скачать по ссылке](https://www.dropbox.com/scl/fi/lg7tu5s3pr8n5sljux5kk/output.7z?rlkey=b9z6hnrc3gur65mpx1i3f8r58&st=btzohan4&dl=0)
