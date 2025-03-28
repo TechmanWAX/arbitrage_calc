@@ -1,7 +1,7 @@
 # Арбитражный калькулятор
 Just a calculator that will help you calculate the profit and Margin Call on arbitrage transactions.
 
-Последнюю версию программы можно [скачать по ссылке](https://www.dropbox.com/scl/fi/3341tai8ru4znpnphdhl2/output.7z?rlkey=y5mn2a6mmx5gqj6y71iuozzju&st=sp29m3jv&dl=0)
+Последнюю версию программы можно [скачать по ссылке](https://www.dropbox.com/scl/fo/3gf7ps4claoy6mfd0tbha/AD8i4G5jdEumz04DCxCeDAU?rlkey=j6ldgtqip2vdwvlxomrory9f2&st=c3yxvzvb&dl=0)
 
 Программа предназначена для отображения текущего или желаемого профита и цены ликвидации.
 
